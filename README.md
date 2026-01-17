@@ -1,4 +1,4 @@
-# User Churn & Retention Analysis in E-commerce
+# E-commerce User Churn & Retention Modeling
 *A Product Analytics & Predictive Modeling Case Study*
 
 ## Project Overview
@@ -279,12 +279,6 @@ This implies a segmented retention strategy:
 - Low Value: Activation optimization, guided discovery, first-purchase incentives
 
 ## Conclusion
-
-Dưới đây là một đoạn **Conclusion** viết lại sao cho bám chặt vào toàn bộ phân tích funnel, cohort, logistic regression, PDP và segmentation mà mày đã làm:
-
----
-
-### Conclusion
 
 This analysis shows that user churn in the e-commerce platform is not primarily driven by lack of purchasing power or product interest, but by how quickly and deeply users reach their first moment of value.
 
