@@ -5,21 +5,19 @@ case study on 232,079 shoppers across five months of the REES46 cosmetics-shop d
 EDA → leakage-free churn model → segmentation → value-based targeting → financial impact →
 A/B validation → implementation roadmap.
 
-> **Slide deck:**
-> **Report:** 
-
+> **Slide deck:** https://github.com/rosenguyen2107/E-commerce-User-Churn-Retention-Modeling/blob/main/customer_retention_analysis_deck.pdf
+> **Report:** https://github.com/rosenguyen2107/E-commerce-User-Churn-Retention-Modeling/blob/main/customer_retention_analysis_report.pdf
+> **Notebook:** https://github.com/rosenguyen2107/E-commerce-User-Churn-Retention-Modeling/blob/main/Customer_Retention_Analysis.ipynb
 ---
 
-## The project in plain English
-
-*No data or e-commerce background needed — this section explains the whole thing as a story.*
+## Project Overview
 
 Imagine you run an online cosmetics store. Every day, hundreds of thousands of people drop in to
-browse lipsticks, powders, creams. Your biggest headache isn't "how do we get new people in" —
+browse lipsticks, powders, creams. Your biggest headache isn't "how do we get new people in" -
 it's that **most people visit once and vanish, never to return.** Concretely: out of every 100
 people who visited in October, **77 never came back at all** over the next two months.
 
-For a store like this — cheap products, impulse purchases — money doesn't come from one big
+For a store like this, with cheap products and impulse purchases, money doesn't come from one big
 order. It comes from customers coming back and buying again and again. So **keeping customers
 matters more than attracting new ones.**
 
